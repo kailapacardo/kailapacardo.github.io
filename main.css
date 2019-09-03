@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+  background-color: lightblue;
+}
+
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 25px;
+}
+
+ul li{
+    display: inline-block;
+    margin-right: 40px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #fff
+}
+
+ul li a:hover{
+    color: #000000;
+    padding: 5px 0.2px;
+    transition: 0.5 ease;
+}
+
+ul li a.active{
+    border-bottom: 2px solid;
+    color: #fff
+}
+
+ul li a.gallery{
+    border: 1px solid #fff;
+    padding: 5px 20px;
+    border-radius: 3px;
+    color: #fff
+}
+
+ul li a.gallery:hover{
+    background-color: #fff;
+    color: #000000
+}
+
+.port{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.port h1{
+    font-size: 55px;
+    font-weight: 300;
+}
+
+.port p{
+    font-size: 18px; 
+}
+
+.frame{
+    position: absolute;
+    top: 160%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding-bottom: 27%;
+}
+
+.about{
+    position:absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.about h1{
+    font-size: 50px;
+    font-weight: 300;
+}
+
+.home{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.home h1{
+    font-size: 55px;
+    font-weight: 300;
+}
+
+.home p{
+    font-size: 18px; 
+}
+
+.gall{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.gall h1{
+    font-size: 55px;
+    font-weight: 300;
+}
+
+.gall p{
+    font-size: 18px;
+}
+
+.logo img{
+    float: left;
+    position: absolute;
+    top: 27px;
+}
