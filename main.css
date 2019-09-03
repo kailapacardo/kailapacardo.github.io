@@ -60,7 +60,8 @@ ul li a.gallery:hover{
 }
 
 .port p{
-    font-size: 18px; 
+    font-size: 18px;
+    font-weight: 300; 
 }
 
 .frame{
@@ -73,7 +74,7 @@ ul li a.gallery:hover{
 
 .about{
     position:absolute;
-    top: 25%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%,-50%);
 }
@@ -83,6 +84,15 @@ ul li a.gallery:hover{
     font-weight: 300;
 }
 
+.about h2{
+    font-size: 20px;
+    font-weight: 60;
+}
+
+.about p{
+     font-size: 20px;
+    font-weight: 300;
+}
 .home{
     position: absolute;
     top: 30%;
@@ -96,12 +106,13 @@ ul li a.gallery:hover{
 }
 
 .home p{
-    font-size: 18px; 
+    font-size: 18px;
+    font-weight: 300;
 }
 
 .gall{
     position: absolute;
-    top: 30%;
+    top: 20%;
     left: 50%;
     transform: translate(-50%,-50%);
 }
@@ -113,10 +124,6 @@ ul li a.gallery:hover{
 
 .gall p{
     font-size: 18px;
+    font-weight: 300;
 }
 
-.logo img{
-    float: left;
-    position: absolute;
-    top: 27px;
-}
