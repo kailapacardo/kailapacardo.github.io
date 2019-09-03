@@ -66,7 +66,7 @@ ul li a.gallery:hover{
 
 .frame{
     position: absolute;
-    top: 160%;
+    top: 165%;
     left: 50%;
     transform: translate(-50%,-50%);
     padding-bottom: 27%;
@@ -126,4 +126,243 @@ ul li a.gallery:hover{
     font-size: 18px;
     font-weight: 300;
 }
+
+div.gallery {
+  margin: 10px;
+  border: 4px solid #ccc;
+  float: left;
+  width: 200px;
+  height: 300px;
+  position: absolute;
+  top: 35%;
+  left: 10%;
+}
+
+div.gallery:hover {
+  border: 5px solid #000000;
+}
+
+div.gallery img {
+  width: 100%;
+  height: 100%;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+    
+}
+
+div.gallery1 {
+  margin: 10px;
+  border: 4px solid #ccc;
+  float: left;
+  width: 200px;
+  height: 300px;
+  position: absolute;
+  top: 35%;
+  left: 30%;
+}
+
+div.gallery1:hover {
+  border: 5px solid #000000;
+}
+
+div.gallery1 img {
+  width: 100%;
+  height: 100%;
+}
+
+div.gallery2 {
+  margin: 10px;
+  border: 4px solid #ccc;
+  float: left;
+  width: 200px;
+  height: 300px;
+  position: absolute;
+  top: 35%;
+  left: 50%;
+}
+
+div.gallery2:hover {
+  border: 5px solid #000000;
+}
+
+div.gallery2 img {
+  width: 100%;
+  height: 100%;
+}
+
+div.gallery3 {
+  margin: 10px;
+  border: 4px solid #ccc;
+  float: left;
+  width: 200px;
+  height: 300px;
+  position: absolute;
+  top: 35%;
+  left: 70%;
+}
+
+div.gallery3:hover {
+  border: 5px solid #000000;
+}
+
+div.gallery3 img {
+  width: 100%;
+  height: 100%;
+}
+div.gallery4 {
+  margin: 10px;
+  border: 4px solid #ccc;
+  float: left;
+  width: 200px;
+  height: 300px;
+  position: absolute;
+  top: 95%;
+  left: 6%;
+}
+
+div.gallery4:hover {
+  border: 5px solid #000000;
+}
+
+div.gallery4 img {
+  width: 100%;
+  height: 100%;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+    
+}
+
+div.gallery5 {
+  margin: 10px;
+  border: 4px solid #ccc;
+  float: left;
+  width: 200px;
+  height: 300px;
+  position: absolute;
+  top: 95%;
+  left: 27%;
+}
+
+div.gallery5:hover {
+  border: 5px solid #000000;
+}
+
+div.gallery5 img {
+  width: 100%;
+  height: 100%;
+}
+
+div.gallery6 {
+  margin: 10px;
+  border: 4px solid #ccc;
+  float: left;
+  width: 250px;
+  height: 200px;
+  position: absolute;
+  top: 95%;
+  left: 48%;
+}
+
+div.gallery6:hover {
+  border: 5px solid #000000;
+}
+
+div.gallery6 img {
+  width: 100%;
+  height: 100%;
+}
+
+div.gallery7 {
+  margin: 10px;
+  border: 4px solid #ccc;
+  float: left;
+  width: 250px;
+  height: 200px;
+  position: absolute;
+  top: 95%;
+  left: 72%;
+}
+
+div.gallery7:hover {
+  border: 5px solid #000000;
+}
+
+div.gallery7 img {
+  width: 100%;
+  height: 100%;
+}
+
+
+div.galleryA {
+  margin: 10px;
+  border: 4px solid #ccc;
+  float: left;
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  top: 70%;
+  left: 9%;
+}
+
+div.galleryA:hover {
+  border: 5px solid #000000;
+}
+
+div.galleryA img {
+  width: 100%;
+  height: 100%;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+    
+}
+
+div.galleryB {
+  margin: 10px;
+  border: 4px solid #ccc;
+  float: left;
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  top: 70%;
+  left: 38%;
+}
+
+div.galleryB:hover {
+  border: 5px solid #000000;
+}
+
+div.galleryB img {
+  width: 100%;
+  height: 100%;
+}
+
+div.galleryC {
+  margin: 10px;
+  border: 4px solid #ccc;
+  float: left;
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  top: 70%;
+  left: 65%;
+}
+
+div.galleryC:hover {
+  border: 5px solid #000000;
+}
+
+div.galleryC img {
+  width: 100%;
+  height: 100%;
+}
+
 
