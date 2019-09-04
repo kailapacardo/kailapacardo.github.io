@@ -70,7 +70,7 @@ ul li a.gallery:hover{
 
 .frame{
     position: absolute;
-    top: 150%;
+    top: 155%;
     left: 50%;
     transform: translate(-50%,-50%);
     padding-bottom: 27%;
