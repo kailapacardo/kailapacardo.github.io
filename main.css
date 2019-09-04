@@ -4,6 +4,7 @@
     font-family: sans-serif;
 }
 
+/* ul and below is the css codes for the navugation bar. Where i wanted to postion it and also the color of the text;*/
 ul{
     float: right;
     list-style-type: none;
