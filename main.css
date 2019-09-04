@@ -8,10 +8,6 @@ body{
   background-color: lightblue;
 }
 
-body1{
-    background-image: linear-gradient(red, yellow);
-}
-
 ul{
     float: right;
     list-style-type: none;
