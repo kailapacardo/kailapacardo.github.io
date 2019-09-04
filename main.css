@@ -4,7 +4,7 @@
     font-family: sans-serif;
 }
 
-/* ul and below is the css codes for the navugation bar. Where i wanted to postion it and also the color of the text;*/
+/* ul and below is the css codes for the navigation bar. Where i wanted to postion it and also the color of the text;*/
 ul{
     float: right;
     list-style-type: none;
@@ -60,7 +60,7 @@ ul li a.gallery:hover{
     font-size: 18px;
     font-weight: 300; 
 }
-/* fame was postioned for my doc and slides to go in the center of the page */
+/* fame was to postion my embbeded doc and slides to go in the center of the page */
 .frame{
     position: absolute;
     top: 155%;
