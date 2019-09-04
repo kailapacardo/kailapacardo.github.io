@@ -59,7 +59,7 @@ ul li a.gallery:hover{
     font-size: 18px;
     font-weight: 300; 
 }
-
+/* fame was postioned for my doc and slides to go in the center of the page */
 .frame{
     position: absolute;
     top: 155%;
@@ -70,7 +70,7 @@ ul li a.gallery:hover{
 
 .about{
     position:absolute;
-    top: 45%;
+     top: 30%;
     left: 50%;
     transform: translate(-50%,-50%);
 }
@@ -123,6 +123,7 @@ ul li a.gallery:hover{
     font-weight: 300;
 }
 
+/* gallery was for all the pictures being used on the site. all pictures were class labed "gallery(number or letter) this is so each picture was understood by each each css code */
 div.gallery {
   margin: 10px;
   border: 4px solid #ccc;
