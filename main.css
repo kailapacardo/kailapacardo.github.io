@@ -67,6 +67,7 @@ ul li a.gallery:hover{
     left: 50%;
     transform: translate(-50%,-50%);
     padding-bottom: 27%;
+    padding-top: 50%;
 }
 
 .about{
