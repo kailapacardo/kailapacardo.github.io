@@ -63,10 +63,10 @@ ul li a.gallery:hover{
 /* fame was to postion my embbeded doc and slides to go in the center of the page */
 .frame{
     position: absolute;
-    top: 130%;
+    top: 200%;
     left: 50%;
     transform: translate(-50%,-50%);
-    padding-bottom: 30%;
+    padding-bottom: 27%;
     padding-top: 27%;
 }
 
