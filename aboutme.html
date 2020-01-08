@@ -9,8 +9,16 @@
      <!--I have a style section so that each page had a different color background.-->
 <style>
      body {
-  background-image: linear-gradient(to right, #EDFAFE,#BFEEFE,#84DEFE,#50D0FE,#01BBFE);
+  background-image: linear-gradient(-45deg, #E92626, #E95B26, #E99926, #E9C026);
+  background-size: 400% 400%;
+  animation: BackgroundGradient 10s ease-in-out infinite;      
 }
+    
+    @keyframes BackgroundGradient {
+        0% {background-position: 0% 50%;}
+        50% {background-position: 100% 50%}
+        100% {background-position: 0% 50%}
+    }
 </style>
 </head>
 <header>
