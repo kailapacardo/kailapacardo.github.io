@@ -1,4 +1,4 @@
-body{
+.tab_counter_1{
   background-image: linear-gradient(-45deg, #EE7753, #E73C7E, #23A6D5, #23D5AB);
   background-size: 400% 400%;
   animation: BackgroundGradient 10s ease-in-out infinite;      
@@ -10,7 +10,7 @@ body{
         100% {background-position: 0% 50%}
     }
 
-body {
+.tab_counter_2{
   background-image: linear-gradient(-45deg, #E92626, #E95B26, #E99926, #E9C026);
   background-size: 400% 400%;
   animation: BackgroundGradient 10s ease-in-out infinite;      
@@ -22,7 +22,7 @@ body {
         100% {background-position: 0% 50%}
     }
 
-body {
+.tab_counter_3{
   background-image: linear-gradient(-45deg, #74B5CA, #B5DDE7, #47A7E1, #478BE1);
   background-size: 400% 400%;
   animation: BackgroundGradient 10s ease-in-out infinite;      
@@ -33,8 +33,7 @@ body {
         50% {background-position: 100% 50%}
         100% {background-position: 0% 50%}
     }
-
- body {
+.tab_counter_4{
   background-image: linear-gradient(-45deg, #97A2DA, #9A97DA, #A882DC, #B982DC);
   background-size: 400% 400%;
   animation: BackgroundGradient 10s ease-in-out infinite;      
@@ -45,7 +44,6 @@ body {
         50% {background-position: 100% 50%}
         100% {background-position: 0% 50%}
     }
-
 
 *{
     margin: 0;
