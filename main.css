@@ -1,4 +1,4 @@
-.home style{
+body.home{
   background-image: linear-gradient(-45deg, #EE7753, #E73C7E, #23A6D5, #23D5AB);
   background-size: 400% 400%;
   animation: BackgroundGradient 10s ease-in-out infinite;      
@@ -10,7 +10,7 @@
         100% {background-position: 0% 50%}
     }
 
-.about body{
+body.about{
   background-image: linear-gradient(-45deg, #E92626, #E95B26, #E99926, #E9C026);
   background-size: 400% 400%;
   animation: BackgroundGradient 10s ease-in-out infinite;      
@@ -22,7 +22,7 @@
         100% {background-position: 0% 50%}
     }
 
-.port body{
+body.port{
   background-image: linear-gradient(-45deg, #74B5CA, #B5DDE7, #47A7E1, #478BE1);
   background-size: 400% 400%;
   animation: BackgroundGradient 10s ease-in-out infinite;      
@@ -33,7 +33,7 @@
         50% {background-position: 100% 50%}
         100% {background-position: 0% 50%}
     }
-.gall body{
+body.gall{
   background-image: linear-gradient(-45deg, #97A2DA, #9A97DA, #A882DC, #B982DC);
   background-size: 400% 400%;
   animation: BackgroundGradient 10s ease-in-out infinite;      
